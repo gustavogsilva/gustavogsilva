@@ -37,5 +37,11 @@ Currently deepening my knowledge in **Python**, **Context Engineering**, **Model
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-g-silva/)  
-[![Gmail](https://img.shields.io/badge/-chdrlz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chdrlz@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/gustavo-g-silva/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:chdrlz@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
