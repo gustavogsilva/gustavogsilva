@@ -35,3 +35,7 @@ Above all, I believe software is a powerful tool to **create positive transforma
 
 Currently deepening my knowledge in **Python**, **Context Engineering**, **Model Context Protocol (MCP)**, and **cloud infrastructure (GCP and AWS)** to enhance my problem-solving capabilities and address market needs efficiently.
 
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-g-silva/)  
+[![Gmail](https://img.shields.io/badge/-chdrlz@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chdrlz@gmail.com)
