@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Gustavo
 
-<!--
-**gustavogsilva/gustavogsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Developer** with **4+ years of experience**, working across **Front-end and Full-stack development**, specialized in **React, Next.js, Node.js, and TypeScript**.
 
-Here are some ideas to get you started:
+I started my career with a strong focus on **Front-end**, where I spent around **3 years** building **modern, performant, secure, and responsive interfaces**. Since **2024**, I’ve been working as a **Full-stack Developer**, expanding my expertise in **back-end development and software architecture**, with consistent attention to **scalability, maintainability, and security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m **proactive**, **results-oriented**, and deeply passionate about **continuous learning**, always applying **best practices** to deliver high-quality and reliable software.
+
+Above all, I believe software is a powerful tool to **create positive transformations in the world** when built with care, clarity, responsibility, and purpose.
+
+---
+
+## 🛠️ Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,typescript,javascript,mongodb,postgres,kafka,docker,kubernetes)](https://skillicons.dev)
+
+---
+
+## 🚀 What I Care About
+
+- Clean and expressive code  
+- Scalable and maintainable architectures  
+- Thoughtful software design  
+- Cybersecurity and safe-by-default systems  
+- Continuous improvement and learning  
+- Delivering real value through technology  
+
+---
+
+## 🚀 Next Steps
+
+Currently deepening my knowledge in **Python**, **Context Engineering**, **Model Context Protocol (MCP)**, and **cloud infrastructure (GCP and AWS)** to enhance my problem-solving capabilities and address market needs efficiently.
+
