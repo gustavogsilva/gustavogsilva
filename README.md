@@ -12,7 +12,20 @@ Above all, I believe software is a powerful tool to **create positive transforma
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,typescript,javascript,mongodb,postgres,kafka,docker,kubernetes)](https://skillicons.dev)
+### Front-end
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)  
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)  
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)  
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)  
+[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+### Back-end
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)  
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)  
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org)  
+[![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org)  
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com)  
+[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 
 ---
 
