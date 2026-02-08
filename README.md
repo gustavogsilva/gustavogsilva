@@ -33,7 +33,7 @@ Above all, I believe software is a powerful tool to **create positive transforma
 
 ## 🚀 Next Steps
 
-Currently deepening my knowledge in **Python**, **Context Engineering**, **Model Context Protocol (MCP)**, and **cloud infrastructure (GCP and AWS)** to enhance my problem-solving capabilities and address market needs efficiently.
+Currently deepening my knowledge in **AI-Assisted Development**, **Context Engineering**, **Model Context Protocol (MCP)**, and **back-end development** to further enhance my software development and problem-solving skills.
 
 ## 📫 Contact Me
 
